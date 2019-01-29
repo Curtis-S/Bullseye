@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    // values for game 
     var currentValue: Int = 0
     var targetValue =  0
     var score = 0
